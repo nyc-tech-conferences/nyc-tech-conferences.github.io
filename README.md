@@ -1,26 +1,8 @@
-# Ruby Conferences
+# NYC Tech Conferences
 
-[![Build Status](https://travis-ci.org/ruby-conferences/ruby-conferences.github.io.svg)][travis]
-
-[travis]: https://travis-ci.org/ruby-conferences/ruby-conferences.github.io
-
-[RubyConferences.org][r] is a simple list of Ruby conferences, published
-collaboratively with the Ruby community. Updates are sometimes posted to
-[@rubyconferences][t].
+A simple list of NYC tech conferences. Site is based on [RubyConferences.org][r].
 
 [r]: http://rubyconferences.org/
-[t]: https://twitter.com/rubyconferences
-
-## Eligible Conferences
-
-Focus is a goal of this project and as a result, only conferences that are
-specifically for Ruby are listed. That means that if a conference covers Ruby,
-but is not specifically for Rubyists, then it is left out.
-
-A good rule of thumb for whether a conference should be included is if its name
-includes either Ruby or Rails and how it describes itself. A conference that
-describes itself as a "Conference on Web Development" might be an awesome event,
-but it's probably not a Ruby conference.
 
 ## Contributing
 
@@ -62,9 +44,7 @@ and point your browser at http://localhost:4000/
 
 ## License
 
-The design of the site is copyrighted by Cameron Daigle.
-
-All other original work uses the Creative Commons
+All original work uses the Creative Commons
 [Attribution-NonCommercial-ShareAlike 4.0 International License][l].
 
 [l]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US.
