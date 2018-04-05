@@ -1,8 +1,29 @@
+- name: Software Craftsmanship North America
+  location: New York, NY
+  dates: "April 19, 2018"
+  url: https://scna.softwarecraftsmanship.org/
+  twitter: scna
+  reg_phrase: "Registration open"
+
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 30 - May 2, 2018"
   url: https://conferences.oreilly.com/artificial-intelligence/ai-ny
   twitter: TheAIConf
+  reg_phrase: "Registration open"
+
+- name: Codeland
+  location: New York, NY
+  dates: "May 4 - 5, 2018"
+  url: http://codelandconf.com/
+  twitter: codenewbies
+  reg_phrase: "Registration open"
+
+- name: Empire City Elixir Conference
+  location: New York, NY
+  dates: "May 19, 2018"
+  url: http://empex.co/nyc.html
+  twitter: empexco
   reg_phrase: "Registration open"
 
 - name: Gotham Ruby Conference
