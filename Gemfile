@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.5.0'
-#ruby-gemset=ruby-conferences
+# Read ruby version from .ruby-version file
+ruby File.read('.ruby-version', mode: 'rb').chomp
+#ruby-gemset=nyc-tech-conferences
 
 gem 'danger'
 gem 'danger-commit_lint'

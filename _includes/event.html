@@ -1,8 +1,8 @@
 <dt>
   {% if event.url %}
-  <a href="{{ event.url }}">{{ event.name }}</a>
+  <a href="{{ event.url }}" class="event">{{ event.name }}</a>
   {% else %}
-  <a>{{ event.name }}</a>
+  <a class="event">{{ event.name }}</a>
   {% endif %}
   {% if event.reg_phrase %}
   <div class="reg" data-date="{{ event.reg_date }}" data-phrase="{{ event.reg_phrase }}"></div>
@@ -16,7 +16,7 @@
     <li>{{ event.dates }}</li>
     <li>{{ event.location }}</li>
     {% if event.twitter %}
-      <li><a href="https://twitter.com/{{ event.twitter }}">@{{ event.twitter }}</a></li>
+      <li><a href="https://twitter.com/{{ event.twitter }}" class="twitter">@{{ event.twitter }}</a></li>
     {% endif %}
     {% if event.video_link %}
       <li><a href="{{ event.video_link }}">Event Videos</a></li>
