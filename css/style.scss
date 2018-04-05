@@ -1,0 +1,78 @@
+---
+---
+
+// start content
+
+// $red: #ea1010; // ruby conferences red
+$red: #ef3340; // pantone red
+$twitter-blue: #1da1f2; // twitter blue
+$dark-gray: #333;
+$white: #eee;
+
+#page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 60px;
+}
+
+body {
+  background: $dark-gray;
+  color: $white;
+}
+
+header {
+  padding: 60px 0 40px 0;
+}
+
+header h1 span {
+  color: $red;
+}
+
+header nav ul li a {
+  display: block;
+  padding: 5px 40px;
+  border-bottom: 2px solid #999;
+  color: #444;
+  font-size: 20px;
+}
+
+header nav ul li a:hover {
+  text-decoration: none;
+  border-color: $red;
+  color: $red;
+}
+
+header nav ul li.active a {
+  color: $white;
+  border-color: #ccc;
+}
+
+a {
+  text-decoration: none;
+  color: $white;
+}
+
+a.event {
+  font-size: 20px;
+}
+
+a.twitter {
+  color: $twitter-blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav, article {
+  display: block;
+}
+
+nav ul li {
+  float: left;
+}
