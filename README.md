@@ -1,7 +1,8 @@
 # NYC Tech Conferences
 
-A simple list of NYC tech conferences. Site is based on [RubyConferences.org][r].
+A simple list of [NYC tech conferences][n]. Site is based on [RubyConferences.org][r].
 
+[n]: http://nyctechconferences.org
 [r]: http://rubyconferences.org/
 
 ## Contributing
@@ -12,12 +13,11 @@ have an update for those things, just change the YAML and send a PR.
 Here is a list of the keys that can be used:
 
 * `name`: The official name of the event
-* `location`: When the event is in the US, this would be "City, State", for any
-  other country, use "City, Country".
+* `location`: This would be "City, State"
 * `dates`: The dates for the event - use "Month Day, Year" format with multi-day
-  events looking like "1-2".
+  events looking like "1 - 2".
 * `url`: The url for the event.
-* `twitter`: The twitter handle for the event, you can leave off the "@".
+* `twitter`: The twitter handle ("@") or hashtag ("#") for the event.
 
 Extra keys for the current list:
 
