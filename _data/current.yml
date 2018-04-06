@@ -28,7 +28,7 @@
 
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
-  dates: "April 30 - May 2, 2018"
+  dates: "April 29 - May 2, 2018"
   url: https://conferences.oreilly.com/artificial-intelligence/ai-ny
   twitter: "@TheAIConf"
   reg_phrase: "Registration open"
@@ -73,14 +73,14 @@
 
 - name: O'Reilly Strata Data Conference
   location: New York, NY
-  dates: "September 12 - 13, 2018"
+  dates: "September 11 - 13, 2018"
   url: https://conferences.oreilly.com/strata/strata-ny
   twitter: "@strataconf"
   reg_phrase: "Registration opens in May 2018"
 
 - name: O'Reilly Velocity Conference
   location: New York, NY
-  dates: "October 1 - 3, 2018"
+  dates: "September 30 - October 3, 2018"
   url: https://conferences.oreilly.com/velocity/vl-ny
   twitter: "@velocityconf"
   reg_phrase: "Registration opens in May 2018"
