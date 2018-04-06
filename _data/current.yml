@@ -26,6 +26,13 @@
   twitter: "#generateconf"
   reg_phrase: "Registration open"
 
+- name: GothamGo
+  location: New York, NY
+  dates: "April 27, 2018"
+  url: http://gothamgo.com/
+  twitter: "@gothamgo"
+  reg_phrase: "Registration open"
+
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 29 - May 2, 2018"
@@ -70,6 +77,42 @@
   reg_phrase: "Registration open"
   cfp_phrase: CFP closes
   cfp_date: "April 15, 2018"
+
+- name: Developer Week
+  location: New York, NY
+  dates: "June 18 - 20, 2018"
+  url: http://www.developerweek.com/NYC/
+  twitter: "@developerweek"
+  reg_phrase: "Registration open"
+
+- name: QCon
+  location: New York, NY
+  dates: "June 25 - 29, 2018"
+  url: https://qconnewyork.com/
+  twitter: qconnewyork
+  reg_phrase: "Registration open"
+
+- name: Dash by Datadog
+  location: New York, NY
+  dates: "July 11 - 12, 2018"
+  url: https://www.dashcon.io/
+  reg_phrase: "Registration open"
+
+- name: droidcon
+  location: New York, NY
+  dates: "August 27 - 28, 2018"
+  url: http://droidcon.nyc/
+  twitter: "@DroidconNYC"
+  reg_phrase: "Registration open"
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 10, 2018"
+
+- name: "try! Swift"
+  location: New York, NY
+  dates: "September 4 - 5, 2018"
+  url: https://www.tryswift.co/events/2018/nyc/
+  twitter: "@tryswiftnyc"
+  reg_phrase: "Registration open"
 
 - name: O'Reilly Strata Data Conference
   location: New York, NY
