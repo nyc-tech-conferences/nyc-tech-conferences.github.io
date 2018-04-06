@@ -12,6 +12,20 @@
   twitter: "#dotide"
   reg_phrase: "Registration open"
 
+- name: The Lead Developer
+  location: New York, NY
+  dates: "April 24, 2018"
+  url: https://newyork2018.theleaddeveloper.com/
+  twitter: "@theleaddev"
+  reg_phrase: "Registration open"
+
+- name: Generate Conf
+  location: New York, NY
+  dates: "April 25 - 27, 2018"
+  url: https://www.generateconf.com/new-york
+  twitter: "#generateconf"
+  reg_phrase: "Registration open"
+
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 30 - May 2, 2018"
@@ -39,6 +53,13 @@
   dates: "May 19, 2018"
   url: http://empex.co/nyc.html
   twitter: "@empexco"
+  reg_phrase: "Registration open"
+
+- name: Buzz JS
+  location: New York, NY
+  dates: "June 14 - 15, 2018"
+  url: http://buzzjs.com/
+  twitter: "@buzzjs"
   reg_phrase: "Registration open"
 
 - name: Gotham Ruby Conference
