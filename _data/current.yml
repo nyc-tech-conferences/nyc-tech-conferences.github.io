@@ -5,6 +5,12 @@
   twitter: scna
   reg_phrase: "Registration open"
 
+- name: Digital Ocean Tide
+  location: New York, NY
+  dates: "April 24, 2018"
+  url: https://tidenyc.splashthat.com/
+  reg_phrase: "Registration open"
+
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 30 - May 2, 2018"
@@ -18,6 +24,14 @@
   url: http://codelandconf.com/
   twitter: codenewbies
   reg_phrase: "Registration open"
+
+- name: !!Con
+  location: New York, NY
+  dates: "May 12 - 13, 2018"
+  url: http://bangbangcon.com/
+  twitter: bangbangcon
+  reg_phrase: "Registration closes"
+  reg_date: "May 6, 2018"
 
 - name: Empire City Elixir Conference
   location: New York, NY
