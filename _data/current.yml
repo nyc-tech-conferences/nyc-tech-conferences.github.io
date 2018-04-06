@@ -2,49 +2,50 @@
   location: New York, NY
   dates: "April 19, 2018"
   url: https://scna.softwarecraftsmanship.org/
-  twitter: scna
+  twitter: "@scna"
   reg_phrase: "Registration open"
 
 - name: Digital Ocean Tide
   location: New York, NY
   dates: "April 24, 2018"
   url: https://tidenyc.splashthat.com/
+  twitter: "#dotide"
   reg_phrase: "Registration open"
 
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 30 - May 2, 2018"
   url: https://conferences.oreilly.com/artificial-intelligence/ai-ny
-  twitter: TheAIConf
+  twitter: "@TheAIConf"
   reg_phrase: "Registration open"
 
 - name: Codeland
   location: New York, NY
   dates: "May 4 - 5, 2018"
   url: http://codelandconf.com/
-  twitter: codenewbies
+  twitter: "#codeland"
   reg_phrase: "Registration open"
 
 - name: "!!Con"
   location: New York, NY
   dates: "May 12 - 13, 2018"
   url: http://bangbangcon.com/
-  twitter: bangbangcon
+  twitter: "@bangbangcon"
   reg_phrase: "Registration closes"
-  reg_date: "May 6, 2018"
+  reg_date: "April 6, 2018"
 
 - name: Empire City Elixir Conference
   location: New York, NY
   dates: "May 19, 2018"
   url: http://empex.co/nyc.html
-  twitter: empexco
+  twitter: "@empexco"
   reg_phrase: "Registration open"
 
 - name: Gotham Ruby Conference
   location: New York, NY
   dates: "June 16, 2018"
   url: http://goruco.com/
-  twitter: goruco
+  twitter: "@goruco"
   reg_phrase: "Registration open"
   cfp_phrase: CFP closes
   cfp_date: "April 15, 2018"
@@ -53,14 +54,14 @@
   location: New York, NY
   dates: "September 12 - 13, 2018"
   url: https://conferences.oreilly.com/strata/strata-ny
-  twitter: strataconf
+  twitter: "@strataconf"
   reg_phrase: "Registration opens in May 2018"
 
 - name: O'Reilly Velocity Conference
   location: New York, NY
   dates: "October 1 - 3, 2018"
   url: https://conferences.oreilly.com/velocity/vl-ny
-  twitter: velocityconf
+  twitter: "@velocityconf"
   reg_phrase: "Registration opens in May 2018"
   cfp_phrase: CFP closes
   cfp_date: "April 10, 2018"
