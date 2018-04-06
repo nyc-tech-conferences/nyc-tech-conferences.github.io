@@ -25,7 +25,7 @@
   twitter: codenewbies
   reg_phrase: "Registration open"
 
-- name: !!Con
+- name: "!!Con"
   location: New York, NY
   dates: "May 12 - 13, 2018"
   url: http://bangbangcon.com/
