@@ -36,7 +36,7 @@ We build the site with [Jekyll](https://jekyllrb.com/).
 
 Install Ruby, then:
 ```
-cd ruby-conferences.github.io
+cd nyc-tech-conferences.github.io
 bundle install
 bundle exec jekyll serve
 ```
