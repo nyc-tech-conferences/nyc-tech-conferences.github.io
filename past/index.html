@@ -3,8 +3,17 @@ layout: default
 ---
 <article id="past">
   <dl>
-    {% for event in site.data.past reversed %}
-      {% include event.html %}
-    {% endfor %}
+      {% assign eventsByYear = site.data.past reversed | group_by_exp:"event", "event.dates | date: '%Y'" %}
+      {% for year in eventsByYear %}
+        <h2>{{ year.name }}</h2>
+        {% assign eventsByMonth = year.items | group_by_exp:"event", "event.dates | date: '%B'" %}
+        {% for month in eventsByMonth %}
+          <h3>{{ month.name }}</h3>
+          {% for event in month.items %}
+            {% include event.html %}
+          {% endfor %}
+        {% endfor %}
+      {% endfor %}
+
   </dl>
 </article>
