@@ -33,6 +33,13 @@
   twitter: "@TheAIConf"
   reg_phrase: "Registration open"
 
+- name: Ignite NYC
+  location: New York, NY
+  dates: "April 30, 2018"
+  url: https://www.eventbrite.com/e/ignite-nyc-16-ai-smart-creative-racist-or-misunderstood-tickets-44760242089
+  twitter: "@ignitenyc"
+  reg_phrase: "Registration open"
+
 - name: Codeland
   location: New York, NY
   dates: "May 4 - 5, 2018"
