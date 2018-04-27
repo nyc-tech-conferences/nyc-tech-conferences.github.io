@@ -1,17 +1,3 @@
-- name: Digital Ocean Tide
-  location: New York, NY
-  dates: "April 24, 2018"
-  url: https://tidenyc.splashthat.com/
-  twitter: "#dotide"
-  reg_phrase: "Registration open"
-
-- name: The Lead Developer
-  location: New York, NY
-  dates: "April 24, 2018"
-  url: https://newyork2018.theleaddeveloper.com/
-  twitter: "@theleaddev"
-  reg_phrase: "Registration open"
-
 - name: Generate Conf
   location: New York, NY
   dates: "April 25 - 27, 2018"
