@@ -81,6 +81,14 @@
   url: https://www.dashcon.io/
   reg_phrase: "Registration open"
 
+- name: HOPE Conference
+  location: New York, NY
+  dates: "July 20 - 22, 2018"
+  url: http://xii.hope.net/
+  twitter: "@hopeconf"
+  reg_phrase: "Registration open"
+  cfp_phrase: "CFP open"
+
 - name: droidcon
   location: New York, NY
   dates: "August 27 - 28, 2018"
