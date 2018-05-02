@@ -20,3 +20,21 @@
   dates: "April 24, 2018"
   url: https://newyork2018.theleaddeveloper.com/
   twitter: "@theleaddev"
+
+- name: Generate Conf
+  location: New York, NY
+  dates: "April 25 - 27, 2018"
+  url: https://www.generateconf.com/new-york
+  twitter: "#generateconf"
+
+- name: GothamGo
+  location: New York, NY
+  dates: "April 27, 2018"
+  url: http://gothamgo.com/
+  twitter: "@gothamgo"
+
+- name: Ignite NYC
+  location: New York, NY
+  dates: "April 30, 2018"
+  url: https://www.eventbrite.com/e/ignite-nyc-16-ai-smart-creative-racist-or-misunderstood-tickets-44760242089
+  twitter: "@ignitenyc"

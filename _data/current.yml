@@ -1,30 +1,8 @@
-- name: Generate Conf
-  location: New York, NY
-  dates: "April 25 - 27, 2018"
-  url: https://www.generateconf.com/new-york
-  twitter: "#generateconf"
-  reg_phrase: "Registration open"
-
-- name: GothamGo
-  location: New York, NY
-  dates: "April 27, 2018"
-  url: http://gothamgo.com/
-  twitter: "@gothamgo"
-  reg_phrase: "Registration open"
-
 - name: O'Reilly Artificial Intelligence Conference
   location: New York, NY
   dates: "April 29 - May 2, 2018"
   url: https://conferences.oreilly.com/artificial-intelligence/ai-ny
   twitter: "@TheAIConf"
-  reg_phrase: "Registration open"
-
-- name: Ignite NYC
-  location: New York, NY
-  dates: "April 30, 2018"
-  url: https://www.eventbrite.com/e/ignite-nyc-16-ai-smart-creative-racist-or-misunderstood-tickets-44760242089
-  twitter: "@ignitenyc"
-  reg_phrase: "Registration open"
 
 - name: Codeland
   location: New York, NY
