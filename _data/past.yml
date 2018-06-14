@@ -50,18 +50,15 @@
   dates: "May 4 - 5, 2018"
   url: http://codelandconf.com/
   twitter: "#codeland"
-  reg_phrase: "Registration open"
 
 - name: "!!Con"
   location: New York, NY
   dates: "May 12 - 13, 2018"
   url: http://bangbangcon.com/
   twitter: "@bangbangcon"
-  reg_phrase: "Registration closed"
 
 - name: Empire City Elixir Conference
   location: New York, NY
   dates: "May 19, 2018"
   url: http://empex.co/nyc.html
   twitter: "@empexco"
-  reg_phrase: "Registration open"

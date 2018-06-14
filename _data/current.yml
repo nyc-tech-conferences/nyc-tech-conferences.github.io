@@ -61,13 +61,14 @@
   dates: "September 11 - 13, 2018"
   url: https://conferences.oreilly.com/strata/strata-ny
   twitter: "@strataconf"
-  reg_phrase: "Registration opens in May 2018"
+  reg_phrase: "Registration open"
 
 - name: EmpireJS
   location: New York, NY
-  dates: "September 20 -21, 2018"
+  dates: "September 20 - 21, 2018"
   url: http://2018.empirejs.org/
   twitter: "@empirejs"
+  reg_phrase: "Registration open"
   cfp_phrase: "CFP closes"
   cfp_date: "June 15, 2018"
 
@@ -76,6 +77,4 @@
   dates: "September 30 - October 3, 2018"
   url: https://conferences.oreilly.com/velocity/vl-ny
   twitter: "@velocityconf"
-  reg_phrase: "Registration opens in May 2018"
-  cfp_phrase: CFP closes
-  cfp_date: "April 10, 2018"
+  reg_phrase: "Registration open"
