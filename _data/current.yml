@@ -63,6 +63,14 @@
   twitter: "@strataconf"
   reg_phrase: "Registration opens in May 2018"
 
+- name: EmpireJS
+  location: New York, NY
+  dates: "September 20 -21, 2018"
+  url: http://2018.empirejs.org/
+  twitter: "@empirejs"
+  cfp_phrase: "CFP closes"
+  cfp_date: "June 15, 2018"
+
 - name: O'Reilly Velocity Conference
   location: New York, NY
   dates: "September 30 - October 3, 2018"
